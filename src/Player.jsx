@@ -177,7 +177,7 @@ export default function Player({ setPlayerObject3D })
             //     other
             //   );
             // }
-            restart() 
+            //restart() 
           }}
     >    
         <object3D>   
