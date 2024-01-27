@@ -303,7 +303,7 @@ function Bounds({ length = 1 }) {
 }
 
 export function Level({
-    count = 5,
+    count = 10,
     types = [BlockSpinner, BlockAxe, BlockLimbo],
     seed = 0,
     playerObject3D
